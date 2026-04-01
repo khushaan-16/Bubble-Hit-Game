@@ -10,12 +10,6 @@ A fun and interactive **Bubble Hit Game** built using **HTML, CSS, and JavaScrip
 
 ---
 
-## 📸 Preview
-
-![Game Preview](https://via.placeholder.com/800x400?text=Bubble+Game+Preview)
-
----
-
 ## 🕹️ How to Play
 
 * You’ll see a **target number (Hit Number)** at the top.
