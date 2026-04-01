@@ -6,8 +6,7 @@ A fun and interactive **Bubble Hit Game** built using **HTML, CSS, and JavaScrip
 
 ## 🚀 Live Demo
 
-🔗 *Add your deployed link here*
-👉 [Play Now](#)
+👉 [https://bubblehit-game.netlify.app/](#)
 
 ---
 
